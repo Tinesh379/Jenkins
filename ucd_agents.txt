@@ -1,1 +1,4 @@
 urban code deploy
+set up environments in ucd..
+ucd tree
+snapshots
